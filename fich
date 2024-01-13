@@ -1,0 +1,2 @@
+class vote:
+  def __init__(self,nbbulletin):
